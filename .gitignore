@@ -1,1 +1,4 @@
+.vagrant
+.DS_Store
 private/puppet/
+public/
