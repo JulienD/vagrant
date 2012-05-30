@@ -10,7 +10,7 @@ Obviously, you need to install [Vagrant](http://www.vagrantup.com/), which requi
     $ cd my-vagrant
     $ vagrant up
 
-I you want to change the configuration of your box, edit the Vagrantfile file which collect all the settings of your new virtual machin.
+If you want to change the configuration of your box, edit the Vagrantfile file which collect all the settings of your new virtual machin.
 
 # Provisionning
 
