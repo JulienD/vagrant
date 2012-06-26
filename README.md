@@ -10,7 +10,7 @@ Obviously, you need to install [Vagrant](http://www.vagrantup.com/), which requi
     $ cd my-vagrant
     $ vagrant up
 
-I you want to change the configuration of your box, edit the Vagrantfile file which collect all the settings of your new virtual machin.
+If you want to change the configuration of your box, edit the Vagrantfile file which collect all the settings of your new virtual machin.
 
 # Provisionning
 
@@ -29,7 +29,7 @@ In order to make this code working you have to:
   - rename PROJECT as you wish. This will be your command name, so try something useful and easy to remember.
   - define the path of your vagrant directory to tell to the script where is your project. Rename project_dir variable.
 
-## hox to use it
+## How to use it
   - project help
   - project up
   - project whoami
